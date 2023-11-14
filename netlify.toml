@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://e-z.bio/8yh"
+  status = 301
+  force = true
